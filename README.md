@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikkhil01
+- 👋 Hi, I’m @the-nikhilmaurya
 - 👀 I’m interested in java and python
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on project based on java
